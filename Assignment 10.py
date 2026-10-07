@@ -1,9 +1,9 @@
 import numpy as np
 
 # Student Details
-# Name: ANSH GAJANAN BHONDE
+# Name: Parth Mapari 
 # Department: SOC CSE - SY11
-# Enrollment No.: ADT25SOCB0163
+# Enrollment No.: ADT25SOCB0780
 
 arr = np.arange(1, 11)
 
