@@ -1,0 +1,5 @@
+DEBUG:This is a debug message
+INFO:Program started successfully
+WARNING:This is a warning message
+ERROR:An error has occurred
+CRITICAL:This is a critical message
